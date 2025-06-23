@@ -1,0 +1,799 @@
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasM.3141FB55.Up2Date
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+D:\Practica\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CopyComplete
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CopyComplete
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica (1)\Practica (2)\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasM.3141FB55.Up2Date
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+D:\Practica\Practica (2)\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CopyComplete
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+D:\Practica\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasM.3141FB55.Up2Date
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+D:\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioSuperAdministrativo.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CopyComplete
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioSuperAdministrativo.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasM.3141FB55.Up2Date
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+D:\Practica\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.AgregarPersonasAdministrativas.resources
+C:\Users\Asistente\Downloads\NO TOCAR\MuniProyecto\Practica\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.AgregarPersonasAdministrativas.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.manifest
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.application
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.Parser.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.Interfaces.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.System.Drawing.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ExcelNumberFormat.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\RBush.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\SixLabors.Fonts.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.pdb
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.Parser.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ExcelNumberFormat.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\RBush.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\SixLabors.Fonts.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambioDeContraseña.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambiarPermisosUsuario.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.ModificaryEliminarPerfil.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambioDeContraseñaToken.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.AgregarPersonasAdministrativas.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioSuperAdministrativo.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe.manifest
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.application
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CopyComplete
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+D:\Andrey\CUC\MuniProyecto\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.manifest
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.application
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.Parser.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.Interfaces.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.System.Drawing.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ExcelNumberFormat.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\RBush.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\SixLabors.Fonts.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ComponentModel.Annotations.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.pdb
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.Parser.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\ExcelNumberFormat.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\RBush.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\SixLabors.Fonts.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambioDeContraseña.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambiarPermisosUsuario.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.ModificaryEliminarPerfil.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambioDeContraseñaToken.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.AgregarPersonasAdministrativas.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioSuperAdministrativo.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe.manifest
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.application
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasM.3141FB55.Up2Date
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+C:\MuniAplicacion\Muni\PaginasMuni\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\appsettings.json
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.config
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe.manifest
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.application
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.exe
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\PaginasMuni.pdb
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\RBush.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DAL.dll.config
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Negocios.pdb
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Negocios.dll.config
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.pdb
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\EPPlus.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\RBush.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambioDeContraseña.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambiarPermisosUsuario.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.ModificaryEliminarPerfil.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.CambioDeContraseñaToken.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.AgregarPersonasAdministrativas.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioSuperAdministrativo.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InsertarPersonas.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Auditoria.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Form1.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.IncioAdministrativo.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.InicioUsuariocs.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Justificacion.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.OlvideContraseña.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.Reporte.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.RespuestaSolicitud.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.SeguimientoDeTrabajo.resources
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe.manifest
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.application
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.exe
+C:\Users\Usuario\Desktop\Crear Ejecutable\PaginasMuni\PaginasMuni\obj\Debug\PaginasMuni.pdb

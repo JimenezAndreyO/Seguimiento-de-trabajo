@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|c:\\muniaplicacion\\muni\\paginasmuni\\paginasmuni\\paginasmuni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:paginasmuni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AACD34-86E5-47CE-B46A-B429FFBEC01A}|DAL\\DAL.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\DAL\\UsuarioDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AACD34-86E5-47CE-B46A-B429FFBEC01A}|DAL\\DAL.csproj|solutionrelative:DAL\\UsuarioDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A2464B-5194-4452-8738-F1095AC4B767}|Negocios\\Negocios.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\Negocios\\UsuarioBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A2464B-5194-4452-8738-F1095AC4B767}|Negocios\\Negocios.csproj|solutionrelative:Negocios\\UsuarioBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:PaginasMuni\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InsertarPersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:PaginasMuni\\Paginas\\InsertarPersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\paginasmuni\\paginas\\agregarpersonasadministrativas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:paginasmuni\\paginas\\agregarpersonasadministrativas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\paginasmuni\\paginas\\iniciosuperadministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:paginasmuni\\paginas\\iniciosuperadministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\paginasmuni\\paginas\\insertarpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CC27571-4780-454B-B875-9C12456E118A}|PaginasMuni\\PaginasMuni.csproj|solutionrelative:paginasmuni\\paginas\\insertarpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\appsettings.json",
+              "RelativeDocumentMoniker": "PaginasMuni\\appsettings.json",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\appsettings.json",
+              "RelativeToolTip": "PaginasMuni\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T14:39:21.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarPersonasAdministrativas.cs",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs",
+              "RelativeDocumentMoniker": "PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs",
+              "RelativeToolTip": "PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:25:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\DAL\\UsuarioDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UsuarioDAL.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\DAL\\UsuarioDAL.cs",
+              "RelativeToolTip": "DAL\\UsuarioDAL.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:19:26.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioSuperAdministrativo.cs",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs",
+              "RelativeDocumentMoniker": "PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs",
+              "RelativeToolTip": "PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4v0QAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:37:24.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioBLL.cs",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\Negocios\\UsuarioBLL.cs",
+              "RelativeDocumentMoniker": "Negocios\\UsuarioBLL.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\Negocios\\UsuarioBLL.cs",
+              "RelativeToolTip": "Negocios\\UsuarioBLL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:22:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\App.config",
+              "RelativeDocumentMoniker": "PaginasMuni\\App.config",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\App.config",
+              "RelativeToolTip": "PaginasMuni\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-24T17:11:32.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertarPersonas.cs",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InsertarPersonas.cs",
+              "RelativeDocumentMoniker": "PaginasMuni\\Paginas\\InsertarPersonas.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InsertarPersonas.cs",
+              "RelativeToolTip": "PaginasMuni\\Paginas\\InsertarPersonas.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:26:08.103Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarPersonasAdministrativas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs",
+              "RelativeDocumentMoniker": "PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs",
+              "ToolTip": "D:\\Practica\\Practica\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\AgregarPersonasAdministrativas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:08:35.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InicioSuperAdministrativo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs",
+              "RelativeDocumentMoniker": "PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaginasMuni\\Paginas\\InicioSuperAdministrativo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:37:17.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsertarPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InsertarPersonas.cs",
+              "RelativeDocumentMoniker": "PaginasMuni\\Paginas\\InsertarPersonas.cs",
+              "ToolTip": "C:\\MuniAplicacion\\Muni\\PaginasMuni\\PaginasMuni\\PaginasMuni\\Paginas\\InsertarPersonas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaginasMuni\\Paginas\\InsertarPersonas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:26:02.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
