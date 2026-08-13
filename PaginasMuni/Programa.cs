@@ -5,18 +5,18 @@ namespace PaginasMuni
 {
     static class Program
     {
-        [STAThread] // Necesario para aplicaciones Windows Forms
+        [STAThread] 
         static void Main()
         {
             try
             {
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
-                Application.Run(new Form1()); // Asegúrate de que Form1 sea tu formulario de inicio
+                Application.Run(new Form1()); 
             }
             catch (Exception ex)
             {
-                MessageBox.Show("❌ Error al iniciar la aplicación:\n" + ex.Message,
+                MessageBox.Show("Error al iniciar la aplicación:\n" + ex.Message,
                                 "Error crítico", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
