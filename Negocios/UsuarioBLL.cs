@@ -41,7 +41,7 @@ namespace Negocios
 
         public UsuarioSesion ObtenerUsuarioSesion(string usuarioId)
         {
-            // Llamada al DAL (capa de datos) para obtener el perfil del usuario
+           
             return usuarioDAL.ObtenerPerfilPorUsuario(usuarioId);
         }
 
@@ -116,12 +116,12 @@ namespace Negocios
        string departamento, string tipoIncidencia, DateTime fechaInicio,
        DateTime fechaFinal, string observaciones, string nombreCreador,
        string apellido1Creador, string apellido2Creador, string estado,
-       out int idReporte)  // Agregamos el parámetro de salida
+       out int idReporte)  
         {
             return usuarioDAL.ReportePersonas(nombre, apellido1, apellido2,
                 departamento, tipoIncidencia, fechaInicio, fechaFinal,
                 observaciones, nombreCreador, apellido1Creador, apellido2Creador, estado,
-                out idReporte);  // Pasamos el `out int idReporte` a la capa de datos
+                out idReporte);  
         }
 
 
@@ -132,7 +132,7 @@ namespace Negocios
         }
 
 
-        //Manejando el select de los reportes.
+
         public DataTable ObtenerReportes(string nombre, string apellido1, string apellido2, DateTime? fechaInicio, DateTime? fechaFinal, string tipoIncidencia)
         {
             return usuarioDAL.BuscarPersonasConReportes(nombre, apellido1, apellido2, fechaInicio, fechaFinal, tipoIncidencia);
@@ -196,16 +196,16 @@ namespace Negocios
 
         public bool EnviarTokenRecuperacion(string email)
         {
-            if (usuarioDAL.ValidarCorreo(email)) // Verifica si el correo existe en la BD
+            if (usuarioDAL.ValidarCorreo(email)) 
             {
-                string token = Guid.NewGuid().ToString(); // Genera un token único
-                usuarioDAL.GuardarToken(email, token); // Guarda el token en la BD
+                string token = Guid.NewGuid().ToString(); 
+                usuarioDAL.GuardarToken(email, token); 
 
                 // Enviar correo con el token
                 string asunto = "Recuperación de contraseña";
                 string mensaje = $"Su código de recuperación es: {token}";
 
-                return EnviarCorreo(email, asunto, mensaje); // Llamar a la función de envío de correo
+                return EnviarCorreo(email, asunto, mensaje); 
             }
             return false;
         }
@@ -221,15 +221,15 @@ namespace Negocios
             try
             {
                 MailMessage mail = new MailMessage();
-                mail.From = new MailAddress("municipalidad261@gmail.com"); // Cambia esto por tu correo
+                mail.From = new MailAddress("correo@gmail.com"); 
                 mail.To.Add(destinatario);
                 mail.Subject = asunto;
                 mail.Body = mensaje;
                 mail.IsBodyHtml = false;
 
-                SmtpClient smtp = new SmtpClient("smtp.gmail.com"); // Servidor SMTP
+                SmtpClient smtp = new SmtpClient("gmail.com"); 
                 smtp.Port = 587;
-                smtp.Credentials = new NetworkCredential("municipalidad261@gmail.com", "brtu ufou hsfa cxay"); // Cambia por tu correo y contraseña
+                smtp.Credentials = new NetworkCredential("correo@gmail.com", "c"); 
                 smtp.EnableSsl = true;
                 smtp.Send(mail);
 
